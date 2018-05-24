@@ -1,0 +1,25 @@
+{
+  "name": "rn-countdown-timer-xxyy",
+  "version": "0.0.1",
+  "description": "A simple react native countdown timer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "native",
+    "countdown",
+    "countdown",
+    "timer"
+  ],
+  "author": "Rajat Saxena <rajat@raynstudios.com> (https://raynstudios.com)",
+  "license": "ISC",
+  "peerDependencies": {
+    "react": "^16.3.2",
+    "react-native": "^0.55.4"
+  },
+  "dependencies": {
+    "lodash": "^4.17.10"
+  }
+}
